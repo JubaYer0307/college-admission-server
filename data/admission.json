@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "college_name": "University of ABC",
+      "college_image": "https://example.com/college1.jpg"
+    },
+    {
+      "id": 2,
+      "college_name": "XYZ College",
+      "college_image": "https://example.com/college2.jpg"
+    },
+    {
+      "id": 3,
+      "college_name": "DEF University",
+      "college_image": "https://example.com/college3.jpg"
+    },
+    {
+      "id": 4,
+      "college_name": "LMN University",
+      "college_image": "https://example.com/college4.jpg"
+    },
+    {
+      "id": 5,
+      "college_name": "PQR Institute of Technology",
+      "college_image": "https://example.com/college5.jpg"
+    },
+    {
+      "id": 6,
+      "college_name": "RST College",
+      "college_image": "https://example.com/college6.jpg"
+    }
+  ]
+  

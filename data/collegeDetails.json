@@ -1,0 +1,191 @@
+[
+    {
+      "college_image": "https://example.com/college1.jpg",
+      "college_name": "University of ABC",
+      "admission_dates": "Fall 2023",
+      "events": [
+        "Orientation Day: August 30, 2023",
+        "Welcome Back Party: September 5, 2023",
+        "Career Fair: October 15, 2023"
+      ],
+      "research_history": "Founded in 1950, University of ABC has a rich history of groundbreaking research across various fields.",
+      "sports": [
+        {
+          "sport_name": "Football",
+          "team_name": "ABC Warriors",
+          "home_stadium": "ABC Stadium",
+          "upcoming_matches": [
+            "ABC Warriors vs. XYZ Tigers - August 12, 2023",
+            "ABC Warriors vs. DEF Lions - August 19, 2023"
+          ]
+        },
+        {
+          "sport_name": "Basketball",
+          "team_name": "ABC Thunder",
+          "home_stadium": "ABC Arena",
+          "upcoming_matches": [
+            "ABC Thunder vs. LMN Hoops - September 2, 2023",
+            "ABC Thunder vs. PQR Ballers - September 9, 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "college_image": "https://example.com/college2.jpg",
+      "college_name": "XYZ College",
+      "admission_dates": "Spring 2024",
+      "events": [
+        "Freshman Induction: January 15, 2024",
+        "Cultural Fest: March 5, 2024",
+        "XYZ Hackathon: April 20, 2024"
+      ],
+      "research_history": "Founded in 1965, XYZ College has been at the forefront of cutting-edge research in technology and innovation.",
+      "sports": [
+        {
+          "sport_name": "Soccer",
+          "team_name": "XYZ Strikers",
+          "home_stadium": "XYZ Field",
+          "upcoming_matches": [
+            "XYZ Strikers vs. ABC Warriors - February 5, 2024",
+            "XYZ Strikers vs. LMN United - February 12, 2024"
+          ]
+        },
+        {
+          "sport_name": "Tennis",
+          "team_name": "XYZ Aces",
+          "home_stadium": "XYZ Tennis Complex",
+          "upcoming_matches": [
+            "XYZ Aces vs. PQR Pros - March 10, 2024",
+            "XYZ Aces vs. DEF Racquets - March 17, 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "college_image": "https://example.com/college3.jpg",
+      "college_name": "DEF University",
+      "admission_dates": "Fall 2023",
+      "events": [
+        "Student Welcome Bash: September 1, 2023",
+        "Annual Science Expo: October 25, 2023",
+        "DEF Fest: November 10, 2023"
+      ],
+      "research_history": "DEF University, established in 1978, boasts a long tradition of research excellence in natural sciences.",
+      "sports": [
+        {
+          "sport_name": "Swimming",
+          "team_name": "DEF Dolphins",
+          "home_stadium": "DEF Aquatic Center",
+          "upcoming_matches": [
+            "DEF Dolphins vs. ABC Aquatics - September 15, 2023",
+            "DEF Dolphins vs. PQR Swimmers - September 22, 2023"
+          ]
+        },
+        {
+          "sport_name": "Volleyball",
+          "team_name": "DEF Spikers",
+          "home_stadium": "DEF Sports Complex",
+          "upcoming_matches": [
+            "DEF Spikers vs. LMN Smashers - October 5, 2023",
+            "DEF Spikers vs. XYZ Blockers - October 12, 2023"
+          ]
+        }
+      ]
+    },
+    {
+        "college_image": "https://example.com/college4.jpg",
+        "college_name": "LMN University",
+        "admission_dates": "Spring 2024",
+        "events": [
+          "New Student Orientation: January 10, 2024",
+          "Spring Fest: March 20, 2024",
+          "Career Expo: April 15, 2024"
+        ],
+        "research_history": "LMN University, established in 1980, is renowned for its pioneering research in social sciences and humanities.",
+        "sports": [
+          {
+            "sport_name": "Cricket",
+            "team_name": "LMN Strikers",
+            "home_stadium": "LMN Cricket Ground",
+            "upcoming_matches": [
+              "LMN Strikers vs. ABC Blazers - February 2, 2024",
+              "LMN Strikers vs. XYZ All-Stars - February 9, 2024"
+            ]
+          },
+          {
+            "sport_name": "Badminton",
+            "team_name": "LMN Smashers",
+            "home_stadium": "LMN Badminton Hall",
+            "upcoming_matches": [
+              "LMN Smashers vs. PQR Racers - March 5, 2024",
+              "LMN Smashers vs. DEF Shuttlers - March 12, 2024"
+            ]
+          }
+        ]
+      },
+      {
+        "college_image": "https://example.com/college5.jpg",
+        "college_name": "PQR Institute of Technology",
+        "admission_dates": "Fall 2023",
+        "events": [
+          "Freshman Orientation: September 5, 2023",
+          "Tech Expo: October 20, 2023",
+          "PQR Fest: November 15, 2023"
+        ],
+        "research_history": "PQR Institute of Technology, established in 1995, is a leading institution in the field of engineering and technology research.",
+        "sports": [
+          {
+            "sport_name": "Track and Field",
+            "team_name": "PQR Rockets",
+            "home_stadium": "PQR Athletics Arena",
+            "upcoming_matches": [
+              "PQR Rockets vs. ABC Speedsters - September 25, 2023",
+              "PQR Rockets vs. LMN Sprinters - October 2, 2023"
+            ]
+          },
+          {
+            "sport_name": "Golf",
+            "team_name": "PQR Eagles",
+            "home_stadium": "PQR Golf Club",
+            "upcoming_matches": [
+              "PQR Eagles vs. XYZ Tigers - October 10, 2023",
+              "PQR Eagles vs. DEF Lions - October 17, 2023"
+            ]
+          }
+        ]
+      },
+      {
+        "college_image": "https://example.com/college6.jpg",
+        "college_name": "RST College",
+        "admission_dates": "Spring 2024",
+        "events": [
+          "Welcome Day: January 20, 2024",
+          "Cultural Extravaganza: March 10, 2024",
+          "RST Carnival: April 25, 2024"
+        ],
+        "research_history": "RST College, founded in 1972, is known for its contributions to research in environmental sciences and sustainability.",
+        "sports": [
+          {
+            "sport_name": "Hockey",
+            "team_name": "RST Gliders",
+            "home_stadium": "RST Hockey Arena",
+            "upcoming_matches": [
+              "RST Gliders vs. ABC Warriors - February 12, 2024",
+              "RST Gliders vs. XYZ Hawks - February 19, 2024"
+            ]
+          },
+          {
+            "sport_name": "Table Tennis",
+            "team_name": "RST Paddlers",
+            "home_stadium": "RST Table Tennis Hall",
+            "upcoming_matches": [
+              "RST Paddlers vs. PQR Smashers - March 15, 2024",
+              "RST Paddlers vs. DEF Spinners - March 22, 2024"
+            ]
+          }
+        ]
+      }
+      
+            
+]
+

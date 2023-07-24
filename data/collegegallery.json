@@ -1,0 +1,47 @@
+[
+  {
+      "id": 1,
+      "name": "Photo 1",
+      "url": "https://i.ibb.co/RDXZkc5/137-1657555606.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Photo 2",
+      "url": "https://i.ibb.co/ZHYM5Zt/1200px-Trinity-College-Great-Court-02.jpg"
+  },
+  {
+      "id": 3,
+      "name": "Photo 3",
+      "url": "https://i.ibb.co/zHjNDWD/gettyimages-480952865-612x612.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Photo 4",
+      "url": "https://i.ibb.co/p07WzxC/images-1.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Photo 5",
+      "url": "https://i.ibb.co/NyDKprv/images-2.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Photo 6",
+      "url": "https://i.ibb.co/dKGNh91/images-3.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Photo 7",
+      "url": "https://i.ibb.co/Wzsbk8h/images-4.jpg"
+  },
+  {
+      "id": 8,
+      "name": "Photo 8",
+      "url": "https://i.ibb.co/Y04v0Jp/images-5.jpg"
+  },
+  {
+      "id": 9,
+      "name": "Photo 9",
+      "url": "https://i.ibb.co/wzsZhcZ/images-6.jpg"
+  }
+]
